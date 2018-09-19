@@ -1,0 +1,37 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 15
+VisualStudioVersion = 15.0.28010.2016
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "gRPC-Playground", "gRPC-Playground\gRPC-Playground.csproj", "{4BD221C9-C7A5-4450-A98E-F196C625A08E}"
+EndProject
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "gRPC-Messages", "gRPC-Messages\gRPC-Messages.csproj", "{58704D42-F8E4-44CA-B437-7F219AFBD6FE}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "gRPC-client", "gRPC-client\gRPC-client.csproj", "{7EA80033-1FE9-4921-8004-CAF7B0A4400A}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{4BD221C9-C7A5-4450-A98E-F196C625A08E}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{4BD221C9-C7A5-4450-A98E-F196C625A08E}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{4BD221C9-C7A5-4450-A98E-F196C625A08E}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{4BD221C9-C7A5-4450-A98E-F196C625A08E}.Release|Any CPU.Build.0 = Release|Any CPU
+		{58704D42-F8E4-44CA-B437-7F219AFBD6FE}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{58704D42-F8E4-44CA-B437-7F219AFBD6FE}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{58704D42-F8E4-44CA-B437-7F219AFBD6FE}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{58704D42-F8E4-44CA-B437-7F219AFBD6FE}.Release|Any CPU.Build.0 = Release|Any CPU
+		{7EA80033-1FE9-4921-8004-CAF7B0A4400A}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{7EA80033-1FE9-4921-8004-CAF7B0A4400A}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{7EA80033-1FE9-4921-8004-CAF7B0A4400A}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{7EA80033-1FE9-4921-8004-CAF7B0A4400A}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {1AEA03AD-3340-4264-8F68-5E0B4DE722EA}
+	EndGlobalSection
+EndGlobal
